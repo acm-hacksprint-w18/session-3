@@ -121,7 +121,7 @@ We're going to add IBOutlets manually without the use of the Assistant editor.
 
 1. Using the Project Navigator on the left side of Xcode, select **PokemonTableViewCell.swift**.
 
-2. Inside the empty class declaration add the following code:
+2. Inside the class declaration, check that the following code is there:
 
    ```
    @IBOutlet var pokemonImageView: UIImageView!
@@ -186,7 +186,7 @@ We're going to create a custom Pokemon class that encapsulates all of the data t
 5. Add an initializer inside Pokemon class, below all of the properties we just declared:
 
    ```
-   init(name: String, imageURL: URL, type: String, weight: String) {
+   init(name: String, imageURL: String, type: String, weight: String) {
            self.name = name
            self.imageURL = URL(string: imageURL)!
            self.type = type
