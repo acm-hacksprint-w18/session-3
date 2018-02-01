@@ -1,6 +1,6 @@
 # Hack Sprint Session 3 README
 
-Slides: https://docs.google.com/presentation/d/1Mhj2pIHINDBj-jBvQNyKM6AApOk-yffR7wGLuSP4PJM/edit?usp=sharing
+*Slides*: https://docs.google.com/presentation/d/1Mhj2pIHINDBj-jBvQNyKM6AApOk-yffR7wGLuSP4PJM/edit?usp=sharing
 
 ## Table of Contents
 
